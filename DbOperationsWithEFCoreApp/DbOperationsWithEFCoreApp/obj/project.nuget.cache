@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zPzkAAiWZCs=",
+  "success": true,
+  "projectFilePath": "C:\\Entity Framework\\Entity Framework Core\\src\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nihal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Nihal\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
